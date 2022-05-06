@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @poubr
+- 👀 I’m interested in game dev.
+- 🌱 I’m currently learning how to make more original readmes, C#, Java, and Python.
